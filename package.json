@@ -1,5 +1,5 @@
 {
-  "homepage": "https://developern1.github.com/test",
+  "website": "https://developern1.github.io/context-next14",
   "name": "context-next14",
   "version": "0.1.0",
   "private": true,
@@ -23,4 +23,4 @@
     "eslint-config-next": "14.2.5",
     "gh-pages": "^6.2.0"
   }
-}
+}   
